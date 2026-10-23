@@ -261,10 +261,4 @@ GitHub: https://github.com/jerohalili
 
 ---
 
-## License
-
-MIT License
-
----
-
 © 2026 JKISINAMAL. All Rights Reserved.
